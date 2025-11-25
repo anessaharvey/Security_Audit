@@ -1,5 +1,4 @@
 # Security_Audit
-Botium Toys Security Audit
 # Botium Toys security audit
 
 This repository contains a scope, goals, and risk assessment for Botium Toys, plus a controls and compliance checklist mapped to administrative, technical, and physical control categories.
